@@ -1,0 +1,1 @@
+node.exe --noEmit "C:\Users\hp\Documents\web\nutriplan-app\node_modules\typescript\lib\tsc.js"
